@@ -1,2 +1,2 @@
-# open-source-design-projects
-Collection of open source project that welcome design contributions.
+# Open source design projects
+A collection of open source projects that welcome design contributions.
