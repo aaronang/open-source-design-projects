@@ -11,3 +11,6 @@ I have yet to determine what a "design-friendly" project means but the bare mini
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [`label:"needs design"`](https://github.com/AppFlowy-IO/AppFlowy/issues?q=is%3Aopen+is%3Aissue+label%3A%22needs+design%22) - An open-source alternative to Notion.
 - [Cal.com](https://github.com/calcom/cal.com) [`label:"🎨 needs design" `](https://github.com/calcom/cal.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%8E%A8+needs+design%22) - Scheduling infrastructure for absolutely everyone.
 - [Nextcloud](https://github.com/nextcloud) [`label:design`](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3Adesign) - A safe home for all your data.
+- [Outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams.
+
+> Note: Some projects, such as Outline, do not have a "design needed" label but maintainer are fast to respond and open to design contributions :)
