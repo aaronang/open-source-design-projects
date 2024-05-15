@@ -5,6 +5,7 @@ A collection of open source projects that welcome design contributions. Many pro
 I have yet to determine what a "design-friendly" project means but the bare minimum should be:
 1. The project has a "design needed" label or something similar.
 2. The project is actively labeling issues that need design input.
+3. Maintainers are fast to respond and open to design contributions.
 
 ## Design-friendly projects
 
@@ -12,5 +13,3 @@ I have yet to determine what a "design-friendly" project means but the bare mini
 - [Cal.com](https://github.com/calcom/cal.com) [`label:"🎨 needs design" `](https://github.com/calcom/cal.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%8E%A8+needs+design%22) - Scheduling infrastructure for absolutely everyone.
 - [Nextcloud](https://github.com/nextcloud) [`label:design`](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3Adesign) - A safe home for all your data.
 - [Outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams.
-
-> Note: Some projects, such as Outline, do not have a "design needed" label but maintainers are fast to respond and open to design contributions :)
