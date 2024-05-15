@@ -8,4 +8,5 @@ I have yet to determine what a "design-friendly" project means but the bare mini
 
 ## Design-friendly projects
 
-- [Nextcloud](https://github.com/nextcloud) - An open source content collaboration platform.
+- [Nextcloud](https://github.com/nextcloud) [`label:design`](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)- An open source content collaboration platform.
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [`label:"needs design"`](https://github.com/AppFlowy-IO/AppFlowy/issues?q=is%3Aopen+is%3Aissue+label%3A%22needs+design%22) - An open-source alternative to Notion.
