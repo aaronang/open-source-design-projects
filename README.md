@@ -13,4 +13,4 @@ I have yet to determine what a "design-friendly" project means but the bare mini
 - [Nextcloud](https://github.com/nextcloud) [`label:design`](https://github.com/nextcloud/server/issues?q=is%3Aopen+is%3Aissue+label%3Adesign) - A safe home for all your data.
 - [Outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams.
 
-> Note: Some projects, such as Outline, do not have a "design needed" label but maintainer are fast to respond and open to design contributions :)
+> Note: Some projects, such as Outline, do not have a "design needed" label but maintainers are fast to respond and open to design contributions :)
